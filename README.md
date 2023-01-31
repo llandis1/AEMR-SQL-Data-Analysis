@@ -14,7 +14,7 @@ Questions such as:
 -Were there any energy providers that were less reliable (i.e. had outages with more frequency, of longer duration than their peers)?  
 
 B. Energy Losses and Market Reliability  
-Forced outages are of particular concern. As they are unplanned, they present an energy security risk. They occur when an energy provider intends to provide energy but are unable able to do so because they are forced offline. This section of the analysis focuses on forced outages.  
+Forced outages are of particular concern. As they are unplanned, they present an energy security risk. They occur when an energy provider intends to provide energy but is unable able to do so because it is forced offline. This section of the analysis focuses on forced outages.  
 Questions such as:    
 -What percent of outages were forced?  
 -What was the average duration and energy lost of forced outages for each provider?  
